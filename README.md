@@ -11,6 +11,6 @@ According to the rules of Suduko,a valid Sudoku if those conditions are met:
 For example, here is a valid sudoku(the numbers in black are the date, in red filled by user):\
 ![valid-Sudoku](valid-sudoku.png)
 
-and an invalid Sudoku is:\
+and an invalid Sudoku is (Surrounded by a blue circle what is wrong):\
 ![invalid-Sudoku](invalid-sudoku.png)
-Surrounded by a blue circle what is wrong.
+
